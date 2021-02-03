@@ -9,3 +9,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
     font-size: 62.5%;
 }
+
+h2 {
+    color: lightblue;
+}
